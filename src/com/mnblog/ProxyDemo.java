@@ -1,7 +1,5 @@
 package com.mnblog;
 
-import java.math.BigDecimal;
-
 /**
  * Created by Milan.Nikic on 8/31/2016.
  */
