@@ -1,4 +1,3 @@
-# dp_proxy
-Proxy design pattern example.
+# Design Pattern - Proxy
 
-Example code used at: https://nick79.gitlab.io/mnblog/post/proxy_design_pattern/.
+Example of java implementation of proxy design pattern.
